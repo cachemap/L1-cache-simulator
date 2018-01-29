@@ -1,0 +1,108 @@
+
+****************************
+***        V = 4         ***
+****************************
+
+--- astar.trace ---
+Cache Settings
+C: 15
+B: 5
+S: 3
+V: 4
+K: 3
+
+Cache Statistics
+Accesses: 501468
+Reads: 289766
+Read misses: 11145
+Read misses combined: 11141
+Writes: 211702
+Write misses: 38821
+Write misses combined: 38821
+Misses: 49966
+Writebacks: 38341
+Victim cache misses: 49962
+Sub-block misses: 2034
+Bytes transferred to/from memory: 2758344
+Hit Time: 2.800000
+Miss Penalty: 100.000000
+Miss rate: 0.103688
+Average access time (AAT): 13.168757
+
+--- bzip2.trace ---
+Cache Settings
+C: 15
+B: 5
+S: 3
+V: 4
+K: 3
+
+Cache Statistics
+Accesses: 544514
+Reads: 369344
+Read misses: 851
+Read misses combined: 851
+Writes: 175170
+Write misses: 817
+Write misses combined: 817
+Misses: 1668
+Writebacks: 298
+Victim cache misses: 1668
+Sub-block misses: 50
+Bytes transferred to/from memory: 62752
+Hit Time: 2.800000
+Miss Penalty: 100.000000
+Miss rate: 0.003155
+Average access time (AAT): 3.115511
+
+--- mcf.trace ---
+Cache Settings
+C: 15
+B: 5
+S: 3
+V: 4
+K: 3
+
+Cache Statistics
+Accesses: 507700
+Reads: 280182
+Read misses: 1542
+Read misses combined: 1542
+Writes: 227518
+Write misses: 7721
+Write misses combined: 7721
+Misses: 9263
+Writebacks: 8040
+Victim cache misses: 9263
+Sub-block misses: 4093
+Bytes transferred to/from memory: 462488
+Hit Time: 2.800000
+Miss Penalty: 100.000000
+Miss rate: 0.026307
+Average access time (AAT): 5.430687
+
+--- perlbench.trace ---
+Cache Settings
+C: 15
+B: 5
+S: 3
+V: 4
+K: 3
+
+Cache Statistics
+Accesses: 507441
+Reads: 302052
+Read misses: 14024
+Read misses combined: 14016
+Writes: 205389
+Write misses: 7979
+Write misses combined: 7968
+Misses: 22003
+Writebacks: 10198
+Victim cache misses: 21984
+Sub-block misses: 6254
+Bytes transferred to/from memory: 907656
+Hit Time: 2.800000
+Miss Penalty: 100.000000
+Miss rate: 0.055648
+Average access time (AAT): 8.364785
